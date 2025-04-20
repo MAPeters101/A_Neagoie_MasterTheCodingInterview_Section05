@@ -7,3 +7,5 @@ print(math.pow(6,300))
 #print(math.pow(6,400))
 #print(math.pow(6,1000))
 
+
+
